@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1> Hello wolrd, nous sommes mardi est no comment </h1>
+        <h1> Hello wolrd, nous sommes mardi </h1>
       </header>
     </div>
   );
